@@ -1,0 +1,11 @@
+id,title,category,difficulty,keywords,content
+1,System Dynamics Basics,modeling,beginner,"stocks,flows,feedback","Introduces stock-and-flow diagrams, reinforcing loops, and balancing loops for systems modeling."
+2,Monte Carlo Risk Analysis,decision_support,intermediate,"uncertainty,risk,simulation","Uses random sampling to estimate risk ranges and confidence intervals for engineering decisions."
+3,Requirements Traceability,project_management,beginner,"requirements,verification,validation","Shows how to map stakeholder requirements to design artifacts and test evidence."
+4,Digital Twin Deployment,deployment,advanced,"iot,real-time,monitoring","Describes architecture patterns for streaming telemetry into a digital twin for health monitoring."
+5,Bayesian Updating for Forecasts,analytics,intermediate,"bayesian,inference,forecasting","Explains how prior beliefs are updated with observed data to improve forecast quality."
+6,Human-in-the-Loop AI,ai_governance,intermediate,"oversight,safety,ethics","Covers review workflows where analysts validate model outputs before operational use."
+7,Design of Experiments,statistics,intermediate,"factorial,anova,optimization","Summarizes factorial designs and response surface methods for process improvement."
+8,Fault Tree Analysis,reliability,beginner,"failure_modes,safety,logic","Demonstrates top-down safety analysis to identify combinations of failures leading to hazards."
+9,Queueing for Service Systems,operations,beginner,"queues,waiting_time,capacity","Explains M/M/1 intuition for balancing service rates and expected waiting times."
+10,Prompt Evaluation Rubric,ai_workflows,beginner,"prompting,evaluation,quality","Provides a scoring rubric for clarity, grounding, and actionability of AI-generated reports."
